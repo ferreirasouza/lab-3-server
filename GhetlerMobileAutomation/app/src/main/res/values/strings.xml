@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My CV Fabio</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed. User or password invalid."</string>
+    <string name="connection_error">"Connection Error. Try again later. "</string>
+    <string name="network_error">"Verify network connection and try again.</string>
+    <string name="message">I hope you liked this small example</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <!-- Strings related to my skills ;) -->
+    <string name="name">Name</string>
+    <string name="frame_work">Test automation framework</string>
+    <string name="code_language">Code language</string>
+    <string name="full_time">Full time</string>
+    <string name="contractor">Contractor</string>
+    <string name="ci_cd">Jenkins</string>
+    <string name="Submit">Submit</string>
+    <!-- Customer!-->
+    <string name="title">Title</string>
+
+
+</resources>
